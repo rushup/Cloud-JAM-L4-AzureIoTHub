@@ -1,0 +1,1 @@
+This is a pre-released application from ST, please check ST website for the lastest version!
